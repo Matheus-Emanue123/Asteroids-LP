@@ -72,9 +72,11 @@ O TIC-80 é um **console fictício** para criar, jogar e compartilhar jogos comp
 
 Saiba mais em [tic80.com](https://tic80.com).
 
-<div style="background-color:white; color:black; padding: 10px;">
+<div align="center" style="background-color:white; color:black; padding: 10px;">
 
 ## 👥 **Colaboradores**
+
+<div align="center">
 
 | Nome                          | Contato                                                                                                                                                          |
 |-------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -83,6 +85,8 @@ Saiba mais em [tic80.com](https://tic80.com).
 | João Francisco Teles da Silva | [<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gmail.svg" width="24" alt="Gmail">](mailto:joaoteles0505@gmail.com) [<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" width="24" alt="GitHub">](https://github.com/joaofranciscoteles) |
 | Matheus Emanuel da Silva      | [<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gmail.svg" width="24" alt="Gmail">](mailto:memanuel643@gmail.com) [<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" width="24" alt="GitHub">](https://github.com/Matheus-Emanue123) |
 | Rafael Adolfo Silva Ferreira  | [<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gmail.svg" width="24" alt="Gmail">](mailto:rafael.ferreira11.98@gmail.com) [<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" width="24" alt="GitHub">](https://github.com/Radsfer) |
+
+</div>
 
 </div>
 
