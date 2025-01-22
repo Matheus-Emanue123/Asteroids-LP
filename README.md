@@ -4,7 +4,9 @@
 
 [![Licença: MIT](https://img.shields.io/badge/Licen%C3%A7a-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
 [![TIC-80](https://img.shields.io/badge/TIC--80-Fantasy%20Console-orange)](https://tic80.com)  
-[![Feito com Amor](https://img.shields.io/badge/Feito%20com-%E2%9D%A4-red)](https://github.com/Matheus-Emanue123/Asteroids-LP)  
+[![Feito com Amor](https://img.shields.io/badge/Feito%20com-%E2%9D%A4-red)](https://github.com/Matheus-Emanue123/Asteroids-LP) 
+
+</div>
 
 ## 📖 **Sobre o Projeto**
 
@@ -96,5 +98,3 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](L
 Contribuições são bem-vindas! Fique à vontade para enviar um pull request ou abrir uma issue.
 
 ⭐ **Divirta-se com o jogo e reviva a experiência dos arcades retrô!**
-
-</div>
